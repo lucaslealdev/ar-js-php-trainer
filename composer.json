@@ -1,0 +1,7 @@
+{
+    "name": "lucaasleaal/ar-js-php-trainer",
+    "description": "A php class to generate markers and patt files for marker-based AR",
+    "autoload": {
+        "files": ["Marker.class.php"]
+    }
+}
